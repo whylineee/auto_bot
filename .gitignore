@@ -1,0 +1,17 @@
+# Local environment
+.env
+.venv/
+
+# Runtime data
+.data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
